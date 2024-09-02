@@ -1,0 +1,10 @@
+.price {
+    font-size: larger;
+    color: coral;
+}
+
+.no-btn {
+    background: none;
+    border: 0;
+    min-width: 350px;
+}
